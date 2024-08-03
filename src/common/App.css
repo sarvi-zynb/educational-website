@@ -1,0 +1,12 @@
+@import url(../assets/style/css/font.css);
+*{
+    direction: rtl;
+    margin: 0;
+    padding: 0;
+    font-family: Dana !important;
+}
+
+body {
+    background: #FAFAFA;
+    min-height: 100vh;
+}

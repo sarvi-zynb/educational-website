@@ -1,0 +1,121 @@
+.leftSide {
+}
+
+.rightSide {
+  margin: 150px 0 0 0;
+}
+
+.redRectangle {
+  width: 455px;
+  height: 382px;
+  transform: rotate(8.255deg);
+  flex-shrink: 0;
+  border-radius: 76px;
+  background: #ffe2e3;
+  position: absolute;
+  z-index: -1;
+  top: 150px;
+  right: 150px;
+}
+
+.blueRectangle {
+  width: 455px;
+  height: 382px;
+  transform: rotate(-17.135deg);
+  flex-shrink: 0;
+  border-radius: 76px;
+  background: #356ffb;
+  position: absolute;
+  z-index: -1;
+  top: 170px;
+  right: 150px;
+}
+
+.circles {
+  position: absolute;
+  z-index: -1;
+  top: 100px;
+  right: 150px;
+}
+
+.card1 {
+  width: 359px;
+  height: 110px;
+  flex-shrink: 0;
+  border-radius: 15px;
+  background: #fff;
+  box-shadow: 0px 2px 30px 0px rgba(10, 87, 251, 0.17);
+  position: absolute;
+  right: 320px;
+  top: 500px;
+  padding: 30.5px 34px;
+}
+
+.captionMentor {
+  color: #9c9c9c;
+  text-align: right;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 300;
+  /* line-height: 50px; */
+  text-transform: uppercase;
+}
+
+.titleMentor {
+  color: #000;
+  text-align: right;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 600;
+  /* line-height: 50px; 340.909% */
+  text-transform: uppercase;
+}
+
+.card2 {
+  width: 130px;
+  height: 141px;
+  flex-shrink: 0;
+  border-radius: 15px;
+  background: #fff;
+  box-shadow: 0px 2px 30px 0px rgba(10, 87, 251, 0.17);
+  position: absolute;
+  right: 76px;
+  top: 400px;
+  padding: 12px 10px;
+}
+
+.captionMentor2 {
+  color: #9c9c9c;
+  text-align: right;
+  font-size: 12px;
+  font-style: normal;
+}
+.captionMentor2 span {
+  margin-right: 5px;
+}
+
+.titleMentor2 {
+  color: #000;
+  text-align: right;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 600;
+  text-transform: uppercase;
+  line-height: 30px;
+}
+
+.title {
+  color: #000;
+  text-align: right;
+  font-size: 46px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 75px;
+  margin-bottom: 30px;
+}
+
+.play {
+  box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 50px;
+  padding: 12px;
+}

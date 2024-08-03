@@ -1,0 +1,29 @@
+.header {
+  background: #fff;
+  box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.06),
+    0px 2px 10px 0px rgba(0, 0, 0, 0.1);
+  padding: 20px 100px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  height: 32px;
+}
+
+.logo span {
+  text-align: center;
+}
+
+.leftSide {
+  width: 15%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.search-icon {
+  font-size: 20px;
+}
